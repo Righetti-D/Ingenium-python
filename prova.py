@@ -10,3 +10,12 @@ print('a+b =',a+b)
 print('a*b =',a*b)
 
 #Questa è una modifica 
+
+#%%
+print("wellllllllllllllllla")
+print("orca boia")
+
+nome="Roberto"
+nome="Ma non lo mandalo"
+
+# %%
